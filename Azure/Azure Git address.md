@@ -1,0 +1,34 @@
+# Azure Git address
+
+## 0. Github Addr.
+
+> github.com/kite01       => instructor's Github
+>
+> github.com/10979F
+>
+> github.com/20553E
+>
+> github.com/AZ-103
+>
+> github.com/MicrosoftLearning
+>
+> 
+
+
+
+This three are what we will do in this class
+
+* 20533
+
+* AZ-103    =>  New version 
+
+* 10979
+
+
+
+There is Instruction folders.
+
+We can easily follow the works.
+
+
+
