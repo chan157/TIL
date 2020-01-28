@@ -187,8 +187,6 @@ sns.countplot(x='day',data=tips)
 
 ![8](C:\Users\Administrator\Desktop\TIL\Azure\images\Network\8.png)
 
-
-
 #### heatmap
 
 ##### - 카테고리별 데이터 분류
